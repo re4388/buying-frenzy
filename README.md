@@ -28,10 +28,10 @@ http://localhost:3001/api
 
 ##  API Documentation
 
-### App is deployed in aws ec2
+### App is deployed in northflank
 
 ```bash
-https://buyingfrenzy-app.herokuapp.com/api
+TODO 
 ```
 
 
